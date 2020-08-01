@@ -11,10 +11,14 @@ given entrance gate a software solution is needed to identify every unique
 person who enters or exit the gate, with log of all previous entry/exit time,
 photo/videos recorded.
 
+------------------------------------------------------------------------------------------------------------------
+
 USAGE:
 clone the file and run the train.py in command prompt or terminal
 
-*install all the require packages*
+------------------------------------------------------------------------------------------------------------------
+
+*install all the required packages*
 OpenCv
 TkInter
 numpy
