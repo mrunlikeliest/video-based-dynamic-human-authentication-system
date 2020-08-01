@@ -1,3 +1,5 @@
 OpenCv
 Python 3 or above
-TKinter
+TkInter
+Pandas
+Numpy
