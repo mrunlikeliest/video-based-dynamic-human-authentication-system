@@ -21,5 +21,5 @@ clone the file and run the train.py in command prompt or terminal
 *install all the required packages*
 OpenCv
 TkInter
-numpy
-panda
+Numpy
+Pandas
