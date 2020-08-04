@@ -1,5 +1,5 @@
 # video-based-dynamic-human-authentication-system
-To develop a software soluton which will dynamically record the date and time of a person who passed through the gate.
+To develop a software solution which will dynamically record the date and time of a person who passed through the gate.
 
 It will have all the data of person like name and all facial values to verify and
 process it.
