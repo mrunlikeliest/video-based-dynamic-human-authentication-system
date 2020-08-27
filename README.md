@@ -23,3 +23,7 @@ OpenCv
 TkInter
 Numpy
 Pandas
+
+------------------------------------------------------------------------------------------------------------------
+Project made by:
+Shubham Santosh Upadhyay, Sudheer Kumar Gupta
