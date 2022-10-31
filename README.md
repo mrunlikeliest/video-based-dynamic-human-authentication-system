@@ -1,7 +1,7 @@
 # video-based-dynamic-human-authentication-system
 
 
-![preview1](images/vbdhas1.png) ![preview2](images/vbdhas2.png ) ![preview3](images/vbdhas3.png)
+![preview1](images/vbdhas1.png) ![preview3](images/vbdhas3.png)
 To develop a software solution which will dynamically record the date and time of a person who passed through the gate.
 
 It will have all the data of person like name and all facial values to verify and
